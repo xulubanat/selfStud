@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554013919464",
+    "firebase_url": "https://self-study-97fc0.firebaseio.com",
+    "project_id": "self-study-97fc0",
+    "storage_bucket": "self-study-97fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554013919464:android:8e9164e00be5927d",
+        "android_client_info": {
+          "package_name": "com.txulubana.selfstud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554013919464-ri9uajum0ibndtbqbs8b38ku89mq4cad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.txulubana.selfstud",
+            "certificate_hash": "889248dc24481f3f3565b9738eee201d2bdafcb1"
+          }
+        },
+        {
+          "client_id": "554013919464-vign9shbdf7em9dud08o8mfvctevsota.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBogQnVjxjJ7Q97q_zxYRZg0ighimUrf3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554013919464-vign9shbdf7em9dud08o8mfvctevsota.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
